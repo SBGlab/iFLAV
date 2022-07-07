@@ -1,0 +1,14 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+Actinobacteria	range	rgba(75, 0, 130, 0.4)	Actinobacteria
+Caryophyllales	range	rgba(52, 235, 62, 0.4)	Caryophillaceae
+Eukaryota	range	rgba(75, 0, 130, 0.2)	Eukaryota
+asterids	range	rgba(44, 187, 52, 0.4)	Asterids
+Fungi	range	rgba(255, 128, 0, 0.4)	Fungi
+Bacilli	range	rgba(0, 106, 130, 0.4)	Bacilli
+Bacteria	range	rgba(10, 168, 205, 0.2)	Bacteria
+Petrosaviidae	range	rgba(134, 235, 52, 0.4)	Petrosavidae
+Spermatophyta	range	rgba(76, 198, 76, 0.3)	Spermatophyta
+rosids	range	rgba(187, 44, 104, 0.4)	Rosids
+Proteobacteria	range	rgba(138, 151, 226, 0.4)	Proteobacteria
